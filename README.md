@@ -4,6 +4,10 @@
 
 Covers:   
 
+* Constructor   
+* Object Literal   
+* Object Create Method
+
 
 ## Installation
 
