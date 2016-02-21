@@ -1,5 +1,5 @@
 // create a Constructor function called Car
-// the Constructor should have the properties:
+// the Constructor should have 3 parameters:
 // make, registrationYear, color
 
 
@@ -19,9 +19,22 @@
 
 
 // Create a second Constructor function called Animal
-// It should should have the 2 properties name and age.
-// name should be public accessible but age should be private, 
+// In Java you can have multible constructors in a class, this you can not in javascript
+// but you can simulate it.
+// Make the Constructor able to take either 2 (species, name) or 3 (species, name, age) parameters.
+// species and name should be public accessible but age should be private, 
 // and should be accessible through a public getter and a setter
+
+
+
+
+
+
+
+
+
+
+
 
 
 
