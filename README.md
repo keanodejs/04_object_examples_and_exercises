@@ -2,7 +2,7 @@
 
 ## Javascript Object examples and exercises.   
 
-Covers:   
+**Covers:**   
 
 * Constructor   
 * Object Literal   
