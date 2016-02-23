@@ -15,7 +15,7 @@
 
 // Create a second object called animal using an Object literal
 // It should should have the 2 properties name and age.
-// name should be public accessible but age should be private, 
+// name and age should be private, 
 // and should be accessible through a public getter and a setter
 
 
